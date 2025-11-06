@@ -6,7 +6,7 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahaawii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#About me
+# About me
 I'm Zahaawii (Zahaa) — a computer engineering student diving deep into backend development and system design. 
 I enjoy building efficient, scalable software and constantly pushing myself to understand the "why" behind the code. Always learning, always improving.
 Always ready to learn, teach or build projects. If you need someone to assist you, hmu! 
