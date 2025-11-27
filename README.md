@@ -1,5 +1,5 @@
 # About me
-I'm Zahaawii (Zahaa) — a computer engineering student diving deep into backend development, frontend development, system architecture and system design. 
+I'm Zahaawii (Zahaa) — a computer science student diving deep into backend development, frontend development, system architecture and system design. 
 I enjoy trying to build efficient, scalable software and constantly pushing myself to understand the "why" behind the code.
 Always ready to learn, teach or build projects. If you need someone to assist you, hmu! 
 
