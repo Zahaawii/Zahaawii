@@ -28,7 +28,9 @@ Maybe not the most precise language description, but mostly Java, C and JavaScri
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Zahaawii&icon=0&color=0)](https://visitcount.itsvg.in)
+One of my dreams is to make something for the community that helps others <br>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=zahaawii) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
