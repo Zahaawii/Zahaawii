@@ -1,3 +1,4 @@
+<div align=center>
 # About Me:
 I'm Zahaawii (Zahaa) — a computer science student diving deep into backend development, frontend development, system architecture and system design. <br>I enjoy trying to build efficient, scalable software and constantly pushing myself to understand the "why" behind the code. <br>Always ready to learn, teach or build projects. If you need someone to assist you, hmu!
 
@@ -11,9 +12,7 @@ I'm Zahaawii (Zahaa) — a computer science student diving deep into backend dev
 
 ### My most used languages
 Maybe not the most precise language description, but mostly Java, C and JavaScript <br> 
-<div align="center">
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zahaawii&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -22,3 +21,5 @@ Maybe not the most precise language description, but mostly Java, C and JavaScri
 [![](https://komarev.com/ghpvc/?username=Zahaawii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
