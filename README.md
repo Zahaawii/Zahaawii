@@ -11,21 +11,17 @@ I'm Zahaawii (Zahaa) — a computer science student diving deep into backend dev
 
 ### My precious commits and streaks:
 
-<div align=center>
 
 ![](https://streak-stats.demolab.com/?user=Zahaawii&theme=shadow_green&hide_border=false)<br/>
 
-</div>
 
 ### My most used languages
 Maybe not the most precise language description, but mostly Java, C and JavaScript <br> <br>
 
-<div align=center>
 
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zahaawii&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
 
 
 ### Random Dev Quote
